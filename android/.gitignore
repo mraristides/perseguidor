@@ -1,0 +1,27 @@
+assets/
+bin/
+gen/
+libs/
+obj/
+
+
+.*.swp
+.*~
+*~
+*.o
+*.so
+*.a
+*.orig
+*.rej
+
+
+# Downloaded gradle wrapper
+.gradle
+
+# Android Studio project files
+.idea
+*.iml
+
+# Gradle build files
+build
+.externalNativeBuild
